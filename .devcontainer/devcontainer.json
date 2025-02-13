@@ -1,0 +1,6 @@
+{
+    "name": "OpenDyslexic fonts",
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
+}
